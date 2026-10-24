@@ -1,6 +1,6 @@
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT LICENSE](https://github.com/rosenio/dns-switcher/blob/master/LICENSE) file for details.
 
 ---
 
